@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashwanthNagaraja
+- 👋 Hi, I’m @yashwanth N
 - 👀 I’m interested in frontEnd development
 - 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, 
 - 💞️ I’m looking for ...
